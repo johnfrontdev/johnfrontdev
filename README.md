@@ -1,6 +1,4 @@
-### Olá! Sou Jonas, bem vindo ao meu perfil 👋
-
-Here are some ideas to get you started:
+### Olá! Sou Jonas, seja bem vindo ao meu perfil 👋
 
 - 🔭 Tenho formação em Webdesign Responsivo pela freecodecamp.org.
 - 🌱 Atualmente estou desenvolvendo alguns projetos, e me aprofundando em JavaScript e React.
