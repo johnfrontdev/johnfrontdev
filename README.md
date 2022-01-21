@@ -3,7 +3,6 @@
 - 🔭 Tenho formação em Webdesign Responsivo pela freecodecamp.org.
 - 🌱 Atualmente estou desenvolvendo alguns projetos, e me aprofundando em JavaScript e React.
 
--->
 
  ##
  
