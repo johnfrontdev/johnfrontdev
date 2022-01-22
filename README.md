@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/johnnxdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+###
+###
+
 - 🔭 Tenho formação em Webdesign Responsivo pela freecodecamp.org.
 - 🌱 Atualmente estou desenvolvendo alguns projetos, e me aprofundando em JavaScript e React.
 
