@@ -22,5 +22,7 @@
   <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+
  
 </div>
