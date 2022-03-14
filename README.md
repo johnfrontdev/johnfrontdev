@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/johnfrontdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- <blockquote>O segredo de qualquer conquista é a coisa mais simples do mundo: saber o que fazer com ela.</blockquote>
+ <blockquote>O segredo de qualquer conquista é a coisa mais simples do mundo: saber o que fazer com ela.<br>- Desconhecido</blockquote>
  
 
  
