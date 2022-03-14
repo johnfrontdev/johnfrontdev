@@ -1,4 +1,4 @@
-### Olá! Sou Jonas, seja bem vindo ao meu perfil 👋
+### Olá! Sou Jonas, bem vindo ao meu perfil 👋
 ###
 ###
 <div> 
