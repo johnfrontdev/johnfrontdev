@@ -1,4 +1,4 @@
-### Jonas - Desenvolvedor Web
+### Desenvolvedor Web
 ###
 ###
 <div> 
