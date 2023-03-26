@@ -1,4 +1,4 @@
-### Olá! Sou Jonas, bem vindo ao meu perfil 👋
+### Jonas - Desenvolvedor Web 👋
 ###
 ###
 <div> 
@@ -6,8 +6,8 @@
 ###
 ###
 
+## Sobre mim
 Sou um desenvolvedor web com habilidades em JavaScript, CSS, HTML, WordPress e PHP. Tenho experiência na criação de sites responsivos e dinâmicos, usando ferramentas e tecnologias de ponta para fornecer soluções personalizadas. Sou capaz de trabalhar em projetos complexos e implementar soluções eficazes para desafios de desenvolvimento. Além disso, estou sempre procurando novas oportunidades de aprendizado e crescimento em minha carreira de desenvolvedor web.
-
 
  #
 ## Habilidades
