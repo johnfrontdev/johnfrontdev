@@ -7,7 +7,7 @@
 ###
 
 ## Sobre mim
-Sou um desenvolvedor web com habilidades em JavaScript, CSS, HTML, WordPress e PHP. Tenho experiência na criação de sites responsivos e dinâmicos, usando ferramentas e tecnologias de ponta para fornecer soluções personalizadas. Sou capaz de trabalhar em projetos complexos e implementar soluções eficazes para desafios de desenvolvimento. Além disso, estou sempre procurando novas oportunidades de aprendizado e crescimento em minha carreira de desenvolvedor web.
+Como desenvolvedor web, domino JavaScript, React, CSS, Bootstrap, SASS, HTML, WordPress e PHP. Crio sites responsivos e dinâmicos, usando as melhores ferramentas e tecnologias do mercado. Resolvo problemas complexos e desafiadores de desenvolvimento com soluções eficazes. Busco sempre aprender e crescer como profissional na área de desenvolvimento web.
 
  #
 ## Habilidades
@@ -19,6 +19,7 @@ Sou um desenvolvedor web com habilidades em JavaScript, CSS, HTML, WordPress e P
   <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="John-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
           
           
 
