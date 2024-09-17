@@ -1,4 +1,4 @@
-### Desenvolvedor Web
+### Desenvolvedor Front-End | Experiência em JavaScript, React, CSS, Bootstrap, SASS, HTML, WordPress e PHP
 ###
 ###
 <div> 
@@ -6,8 +6,8 @@
 ###
 ###
 
-## Sobre mim
-Como desenvolvedor web, domino JavaScript, React, CSS, Bootstrap, SASS, HTML, WordPress e PHP. Crio sites responsivos e dinâmicos, usando as melhores ferramentas e tecnologias do mercado. Resolvo problemas complexos e desafiadores de desenvolvimento com soluções eficazes. Busco sempre aprender e crescer como profissional na área de desenvolvimento web.
+### Sobre mim
+Como desenvolvedor web, domino JavaScript, React, CSS, Bootstrap, SASS, Sou um desenvolvedor web especializado na criação de sites responsivos e dinâmicos, utilizando as melhores práticas e tecnologias de ponta. Com forte domínio em JavaScript, React, CSS, Bootstrap, SASS, HTML e PHP, sou capaz de resolver problemas de desenvolvimento de maneira eficiente e criativa. Além disso, estou expandindo meus conhecimentos com estudos em Python, buscando sempre inovar e crescer na área de desenvolvimento web. Meu foco está em encontrar soluções eficazes para desafios complexos e em entregar produtos que atendam às necessidades do cliente com excelência.
 
  #
 ## Habilidades
