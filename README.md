@@ -1,12 +1,7 @@
-# Jonas Lima (John) — Desenvolvedor Front-End
+# Hi, I'm John
 
-### Experiência em JavaScript, React, CSS, Bootstrap, SASS, HTML, WordPress e PHP
-
+![0d472263-3cf8-4155-b2c2-1ce4a5675163](https://github.com/user-attachments/assets/e7e1853b-013e-40d2-aa16-0fd60e1ec6a8)
 ---
-
-## Sobre mim
-![0d472263-3cf8-4155-b2c2-1ce4a5675163](https://github.com/user-attachments/assets/51ab5777-3234-47f6-bf73-8c49ed74831c)
-
 Sou desenvolvedor web especializado em criar sites responsivos e dinâmicos, aplicando as melhores práticas e tecnologias modernas.  
 Tenho forte domínio em JavaScript, React, CSS, Bootstrap, SASS, HTML e PHP, capaz de resolver problemas de forma eficiente e criativa.  
 Atualmente, estou expandindo meus conhecimentos em Python e Inteligência Artificial, buscando inovação e crescimento constante.  
@@ -14,7 +9,7 @@ Meu foco é entregar produtos que atendam às necessidades do cliente com excel�
 
 ---
 
-## Habilidades
+## Skills
 
 <p align="center" style="margin: 20px 0;">
   <img alt="JavaScript" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -29,7 +24,7 @@ Meu foco é entregar produtos que atendam às necessidades do cliente com excel�
 
 ---
 
-## Contato
+## Let's connect
 
 <p align="center" style="font-size: 0;">
   <a href="mailto:timexlusion@gmail.com" title="Enviar e-mail" style="margin: 0 15px; color: inherit; text-decoration: none;">
