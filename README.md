@@ -5,6 +5,7 @@
 ---
 
 ## Sobre mim
+![0d472263-3cf8-4155-b2c2-1ce4a5675163](https://github.com/user-attachments/assets/51ab5777-3234-47f6-bf73-8c49ed74831c)
 
 Sou desenvolvedor web especializado em criar sites responsivos e dinâmicos, aplicando as melhores práticas e tecnologias modernas.  
 Tenho forte domínio em JavaScript, React, CSS, Bootstrap, SASS, HTML e PHP, capaz de resolver problemas de forma eficiente e criativa.  
