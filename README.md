@@ -1,11 +1,16 @@
-# Hi, I'm John
+# Hi, I'm John👋
 
 ![0d472263-3cf8-4155-b2c2-1ce4a5675163](https://github.com/user-attachments/assets/e7e1853b-013e-40d2-aa16-0fd60e1ec6a8)
 ---
-Sou desenvolvedor web especializado em criar sites responsivos e dinâmicos, aplicando as melhores práticas e tecnologias modernas.  
-Tenho forte domínio em JavaScript, React, CSS, Bootstrap, SASS, HTML e PHP, capaz de resolver problemas de forma eficiente e criativa.  
-Atualmente, estou expandindo meus conhecimentos em Python e Inteligência Artificial, buscando inovação e crescimento constante.  
-Meu foco é entregar produtos que atendam às necessidades do cliente com excelência, sempre com soluções eficazes para desafios complexos.
+I'm a product-focused web developer, specialized in building clean, responsive websites and strategic MVPs with real business potential.
+
+I combine modern frontend technologies (React, Tailwind, Next.js) with strong UX/UI foundations to create projects that are not just functional, but also visually distinctive and ready to scale.
+
+Currently leading The Deploy Co., I help turn ideas into launchable products, combining fast execution, smart design systems, and real-world validation.
+
+I'm also exploring how AI tools can accelerate digital creation without losing authenticity.
+
+My goal is clear: build meaningful, well-crafted experiences — and help others do the same.
 
 ---
 ## Let's connect
